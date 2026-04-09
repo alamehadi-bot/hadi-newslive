@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hadi News Live</title>
+</head>
+<body style="font-family: Arial; background:#0f172a; color:white; text-align:center;">
+
+<h1>🌍 Hadi News Live</h1>
+<p>Simple news about Iran 🇮🇷, USA 🇺🇸 and the Strait of Hormuz</p>
+
+<hr>
+
+<h2>⚠️ Strait of Hormuz</h2>
+<p>Ships are slowed down because of tensions. This affects global oil.</p>
+
+<h2>🇮🇷 Iran</h2>
+<p>Iran is controlling access to the strait to gain power.</p>
+
+<h2>🇺🇸 USA</h2>
+<p>The U.S. wants the strait open and is protecting ships.</p>
+
+<h2>💣 Situation</h2>
+<p>There is a fragile ceasefire but tensions are still high.</p>
+
+<hr>
+
+<p>© 2026 Hadi News Live</p>
+
+</body>
+</html>
