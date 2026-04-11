@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hadi News Live</title>
+</head>
+
+<body style="margin:0; font-family:Arial; background:#0f172a; color:white;">
+
+<!-- Header -->
+<div style="background:#020617; padding:20px; text-align:center;">
+  <h1>🌍 Hadi News Live</h1>
+  <p style="color:#94a3b8;">Detailed Global News</p>
+</div>
+
+<!-- Content -->
+<div style="max-width:800px; margin:auto; padding:20px;">
+
+  <h2 style="color:#38bdf8;">🔥 Iran vs USA Crisis</h2>
+  <p>
+    Tensions between Iran and the United States have increased significantly in recent months.
+    The situation is centered around the Strait of Hormuz, one of the most important oil routes in the world.
+  </p>
+
+  <p>
+    This narrow waterway connects the Persian Gulf to the global ocean, and about 20% of the world's oil supply
+    passes through it. Any disruption can have a major impact on global energy prices and economies.
+  </p>
+
+  <h3>⚠️ Strait of Hormuz</h3>
+  <p>
+    Recently, ship traffic has slowed down due to security concerns. Some vessels are avoiding the area entirely,
+    while others are waiting for safer conditions. This has already caused oil prices to rise.
+  </p>
+
+  <h3>🇮🇷 Iran's Actions</h3>
+  <p>
+    Iran has been increasing its control over the region, using the strait as a strategic point of influence.
+    By limiting access, it can pressure other countries and gain political leverage.
+  </p>
+
+  <h3>🇺🇸 United States Response</h3>
+  <p>
+    The United States has responded by sending military forces to protect shipping routes and ensure freedom of navigation.
+    The goal is to keep global trade flowing and prevent economic disruption.
+  </p>
+
+  <h3>💣 Current Situation</h3>
+  <p>
+    A temporary ceasefire is currently in place, but tensions remain high. Experts warn that the situation could escalate again,
+    making it one of the most closely watched conflicts in the world today.
+  </p>
+
+</div>
+
+<!-- Footer -->
+<div style="text-align:center; padding:20px; background:#020617;">
+  <p style="color:#94a3b8;">© 2026 Hadi News Live</p>
+</div>
+
+</body>
+</html>
